@@ -34,12 +34,12 @@ Topics of the workshop will include (among others):
 
 SecureMDE will accept two types of papers: **research/technical papers** of 10 to 12 pages, and **position
 statements** of 6 to 7 pages. Papers should be submitted in PDF and conform to
-Springer's LNCS format. All submissions must be original work and must not have
+Springer's <a href="http://www.springer.com/comp/lncs/authors.html">LNCS</a> format. All submissions must be original work and must not have
 been previously published, nor be under consideration for publication elsewhere.
 At least one author of each accepted paper must register for the event and
 participate fully in the workshop. All submissions will be formally evaluated by
 three reviewers; All accepted papers will be published digitally in the
-STAF'18 Workshop Post-Proceedings published with Springer <a href="http://www.springer.com/comp/lncs/authors.html">LNCS</a>.
+STAF'18 Workshop Post-Proceedings published with Springer LNCS.
 
 ### Important Dates
 
