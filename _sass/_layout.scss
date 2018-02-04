@@ -41,8 +41,9 @@ header {
 	padding: 15px 15px;
 	text-align: center;
 	margin: 50px 0 0;
-	height: 50vh;
-	/*display: flex;*/
+	/*height: 50vh;*/
+	display: flex;
+        flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
