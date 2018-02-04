@@ -7,9 +7,9 @@ permalink: /Committees/
 ### Organizers
 
  * Salvador Martínez, CEA-LIST, LISE lab., Paris, France
- * Jordi Cabot, SOM Research Lab, ICREA-UOC. Barcelona, Spain
- * Domenico Bianculli, University of Luxembourg, Luxembourg
+ * Jordi Cabot, SOM Research Lab, ICREA-UOC, Barcelona, Spain
+ * Domenico Bianculli, SnT Centre, University of Luxembourg, Luxembourg, Luxembourg
 
-### Preliminary list of program committee members
+### Program committee (preliminary)
 
  TBD

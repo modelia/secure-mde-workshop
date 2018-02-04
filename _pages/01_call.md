@@ -39,8 +39,12 @@ been previously published, nor be under consideration for publication elsewhere.
 At least one author of each accepted paper must register for the event and
 participate fully in the workshop. All submissions will be formally evaluated by
 three reviewers; All accepted papers will be published digitally in the
-STAF'18 Workshop Post-Proceedings published with Springer LNCS.
+STAF'18 Workshop Post-Proceedings published with Springer <a href="http://www.springer.com/comp/lncs/authors.html">LNCS</a>.
 
 ### Important Dates
 
-TBD
+* Abstract submission: April 13, 2018
+* Submission deadline: April 20, 2018
+* Notification: May 25, 2018
+* Camera Ready: June 10, 2018
+* Workshop: June 25, 2018
