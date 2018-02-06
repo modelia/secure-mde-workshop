@@ -16,6 +16,7 @@ permalink: /Committees/
  * Achim Brucher - University of Sheffield, UK
  * Yehia ElRakaiby - University of Limerick, Ireland
  * Jan Jurgens - University of Koblenz-Landau, Germany
+ * Alexander Knapp - Universität Augsburg, Germany
  * Nora Koch - Ludwig-Maximilians-Universität Mûnchen, Germany
  * Regine Laleau - Université Paris-Est Créteil, France
  * Yves Ledru - Université Grenoble-Alpes, France
