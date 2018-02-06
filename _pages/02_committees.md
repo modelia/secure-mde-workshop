@@ -14,6 +14,7 @@ permalink: /Committees/
 
  * Olivier Barais - Université de Rennes, France
  * Achim Brucher - University of Sheffield, UK
+ * Yehia ElRakaiby - University of Limerick, Ireland
  * Jan Jurgens - University of Koblenz-Landau, Germany
  * Nora Koch - Ludwig-Maximilians-Universität Mûnchen, Germany
  * Regine Laleau - Université Paris-Est Créteil, France
