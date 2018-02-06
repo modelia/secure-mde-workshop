@@ -12,4 +12,10 @@ permalink: /Committees/
 
 ### Program committee (preliminary)
 
- TBA
+ * Olivier Barais - Université de Rennes, France
+ * Achim Brucher - University of Sheffield, UK
+ * Jan Jurgens - University of Koblenz-Landau, Germany
+ * Nora Koch - Ludwig-Maximilians-Universität Mûnchen, Germany
+ * Regine Laleau - Université Paris-Est Créteil, France
+ * Yves Ledru - Université Grenoble-Alpes, France
+  
