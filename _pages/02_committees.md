@@ -17,7 +17,8 @@ permalink: /Committees/
  * Yehia ElRakaiby - University of Limerick, Ireland
  * Jan Jurgens - University of Koblenz-Landau, Germany
  * Alexander Knapp - Universität Augsburg, Germany
- * Nora Koch - Ludwig-Maximilians-Universität Mûnchen, Germany
+ * Nora Koch - Ludwig-Maximilians-Universität München, Germany
  * Regine Laleau - Université Paris-Est Créteil, France
  * Yves Ledru - Université Grenoble-Alpes, France
+ * Alexander Pretschner - Technische Universität München, Germany
   
