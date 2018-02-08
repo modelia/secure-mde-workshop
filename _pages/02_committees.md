@@ -13,6 +13,7 @@ permalink: /Committees/
 ### Program committee (preliminary)
 
  * Olivier Barais - Université de Rennes, France
+ * Ameni Ben Fadhel - Université du Luxembourg, Luxembourg
  * Achim Brucher - University of Sheffield, UK
  * Yehia ElRakaiby - University of Limerick, Ireland
  * Jan Jurgens - University of Koblenz-Landau, Germany
