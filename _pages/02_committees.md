@@ -21,4 +21,5 @@ permalink: /Committees/
  * Regine Laleau - Université Paris-Est Créteil, France
  * Yves Ledru - Université Grenoble-Alpes, France
  * Alexander Pretschner - Technische Universität München, Germany
+ * Manuel Wimmer - Technische Universität Wien, Austria
   
