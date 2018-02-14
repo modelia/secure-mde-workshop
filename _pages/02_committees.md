@@ -21,6 +21,7 @@ permalink: /Committees/
  * Nora Koch - Ludwig-Maximilians-Universität München, Germany
  * Regine Laleau - Université Paris-Est Créteil, France
  * Yves Ledru - Université Grenoble-Alpes, France
+ * Gabriel Pedroza - CEA LIST, France
  * Alexander Pretschner - Technische Universität München, Germany
  * Manuel Wimmer - Technische Universität Wien, Austria
   
