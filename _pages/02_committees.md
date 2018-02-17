@@ -23,5 +23,6 @@ permalink: /Committees/
  * Yves Ledru - Université Grenoble-Alpes, France
  * Gabriel Pedroza - CEA LIST, France
  * Alexander Pretschner - Technische Universität München, Germany
+ * Daniel Varro - McGill University, Canada
  * Manuel Wimmer - Technische Universität Wien, Austria
   
