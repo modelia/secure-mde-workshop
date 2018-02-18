@@ -41,6 +41,10 @@ participate fully in the workshop. All submissions will be formally evaluated by
 three reviewers; All accepted papers will be published digitally in the
 STAF'18 Workshop Post-Proceedings published with Springer LNCS.
 
+Manuscripts must be submitted as PDF files through the EasyChair online submission system: 
+
+https://easychair.org/conferences/?conf=securemde2018
+
 ### Important Dates
 
 * Abstract submission: April 13, 2018
