@@ -43,7 +43,7 @@ STAF'18 Workshop Post-Proceedings published with Springer LNCS.
 
 Manuscripts must be submitted as PDF files through the EasyChair online submission system: 
 
-https://easychair.org/conferences/?conf=securemde2018
+<https://easychair.org/conferences/?conf=securemde2018>
 
 ### Important Dates
 
