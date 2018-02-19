@@ -15,6 +15,7 @@ permalink: /Committees/
  * Olivier Barais - Université de Rennes, France
  * Ameni Ben Fadhel - Université du Luxembourg, Luxembourg
  * Achim Brucher - University of Sheffield, UK
+ * Marina Egea - Minsait - INDRA, Spain
  * Yehia ElRakaiby - University of Limerick, Ireland
  * Jan Jurgens - University of Koblenz-Landau, Germany
  * Alexander Knapp - Universität Augsburg, Germany
