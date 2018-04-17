@@ -47,8 +47,8 @@ Manuscripts must be submitted as PDF files through the EasyChair online submissi
 
 ### Important Dates
 
-* Abstract submission: April 13, 2018
-* Submission deadline: April 20, 2018
+* Abstract submission: ~~April 13, 2018~~ April 23, 2018
+* Submission deadline: ~~April 20, 2018~~ April 30, 2018
 * Notification: May 25, 2018
 * Camera Ready: June 10, 2018
 * Workshop: June 25, 2018
