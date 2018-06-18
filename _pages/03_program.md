@@ -6,9 +6,9 @@ permalink: /program/
 
 ### Session 1: 11:00 - 12:30
 
--Javier Luis Canovas Izquierdo and Julian Salas - A UML Profile for Privacy Enforcement
+- Javier Luis Canovas Izquierdo and Julian Salas - A UML Profile for Privacy Enforcement
 
--Thorsten Koch - Toward scenario-based security requirements engineering for cyber-physical systems
+- Thorsten Koch - Toward scenario-based security requirements engineering for cyber-physical systems
 
 ### Lunch Break
 
