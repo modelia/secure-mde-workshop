@@ -28,27 +28,28 @@ Topics of the workshop will include (among others):
  * Requirements for/needs in MDE security
  * MDE for Block-chain technologies and Smart contracts 
  * Case studies and experience reports
+ * MDE for human/social side in security
+ * MDE using Artificial Intelligence to improve security
 
 
 ### Paper Submission
 
-SecureMDE will accept two types of papers: **research/technical papers** of 10 to 12 pages, and **position
-statements** of 6 to 7 pages. Papers should be submitted in PDF and conform to
-Springer's <a href="http://www.springer.com/comp/lncs/authors.html">LNCS</a> format. All submissions must be original work and must not have
-been previously published, nor be under consideration for publication elsewhere.
-At least one author of each accepted paper must register for the event and
-participate fully in the workshop. All submissions will be formally evaluated by
-three reviewers; All accepted papers will be published digitally in the
-STAF'18 Workshop Post-Proceedings published with Springer LNCS.
+SecureMDE will accept two types of papers: **research/technical papers** of 10 pages, and
+position statements of 5 pages.
+
+ Papers should be submitted in PDF and conform to
+ <a href="https://www.acm.org/publications/proceedings-template ">ACM</a> format. 
+
+All submissions will be formally evaluated by three reviewers; different review criteria will be used for research/technical submissions versus position statements. The former will be assessed based on their novelty, alignment with workshop call, evaluation, and ability to generate discussion. The latter will be evaluated in terms of likelihood of sparking heated debate/discussion at the workshop. Paper submissions will be made electronically via the workshop submission web page, using the Easychair service. All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere. At least one author of each accepted paper must register for the event and participate fully in the workshop.
 
 Manuscripts must be submitted as PDF files through the EasyChair online submission system: 
 
-<https://easychair.org/conferences/?conf=securemde2018>
+<tbd>
 
 ### Important Dates
 
-* Abstract submission: ~~April 13, 2018~~ April 23, 2018
-* Submission deadline: ~~April 20, 2018~~ April 30, 2018
-* Notification: May 25, 2018
-* Camera Ready: June 10, 2018
-* Workshop: June 25, 2018
+* Abstract submission: July 24, 2020
+* Submission deadline: July 31, 2020
+* Notification: August 21, 2020
+* Camera Ready: September 11, 2020
+* Workshop: October XXX, 2020
