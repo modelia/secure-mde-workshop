@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SecureMDE 2018
-email: salvador.martinez@cea.fr
+title: SecureMDE 2020
+email: salvador.martinez@imt-atlantique.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Secure MDE 2018 website
+  Secure MDE 2020 website
 baseurl: "/secure-mde-workshop" # the subpath of your site, e.g. /blog
 url: "http://modelia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  salvamartinez
