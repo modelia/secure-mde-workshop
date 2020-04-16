@@ -48,8 +48,8 @@ Manuscripts must be submitted as PDF files through the EasyChair online submissi
 
 ### Important Dates
 
-* Abstract submission: July 24, 2020
-* Submission deadline: July 31, 2020
-* Notification: August 21, 2020
-* Camera Ready: September 11, 2020
-* Workshop: October XXX, 2020
+ * Abstract submission: July 24, 2020
+ * Submission deadline: July 31, 2020
+ * Notification: August 21, 2020
+ * Camera Ready: September 11, 2020
+ * Workshop: October XXX, 2020
