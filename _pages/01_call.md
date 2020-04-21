@@ -44,7 +44,7 @@ All submissions will be formally evaluated by three reviewers; different review 
 
 Manuscripts must be submitted as PDF files through the EasyChair online submission system: 
 
-tbd.
+<https://easychair.org/conferences/?conf=securemde2020>
 
 ### Important Dates
 
