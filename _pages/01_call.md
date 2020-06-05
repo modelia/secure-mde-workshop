@@ -35,21 +35,20 @@ Topics of the workshop will include (among others):
 ### Paper Submission
 
 SecureMDE will accept two types of papers: **research/technical papers** of 10 pages, and
-position statements of 5 pages.
-
- Papers should be submitted in PDF and conform to
- <a href="https://www.acm.org/publications/proceedings-template ">ACM</a> format. 
-
-All submissions will be formally evaluated by three reviewers; different review criteria will be used for research/technical submissions versus position statements. The former will be assessed based on their novelty, alignment with workshop call, evaluation, and ability to generate discussion. The latter will be evaluated in terms of likelihood of sparking heated debate/discussion at the workshop. Paper submissions will be made electronically via the workshop submission web page, using the Easychair service. All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere. At least one author of each accepted paper must register for the event and participate fully in the workshop.
-
-Manuscripts must be submitted as PDF files through the EasyChair online submission system: 
+position statements of 5 pages. Papers should be submitted in PDF and follow the same style and format of the main tracks of the conference. Manuscripts must be submitted through the EasyChair online submission system: 
 
 <https://easychair.org/conferences/?conf=securemde2020>
 
+
+All submissions will be formally evaluated by three reviewers; different review criteria will be used for research/technical submissions versus position statements. The former will be assessed based on their novelty, alignment with workshop call, evaluation, and ability to generate discussion. The latter will be evaluated in terms of likelihood of sparking heated debate/discussion at the workshop.  All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere. Accepted papers will be published in the ACM Satellite Event Proceedings. At least one author of each accepted paper must register for the event and participate fully in the workshop.
+
+
+
 ### Important Dates
 
- * Abstract submission: July 24, 2020
- * Submission deadline: July 31, 2020
+ * Abstract submission: July 15, 2020
+ * Paper submission: July 22, 2020
  * Notification: August 21, 2020
- * Camera Ready: September 11, 2020
- * Workshop: October XXX, 2020
+ * Camera-ready: August 28, 2020
+ * Workshop: TBA
+
