@@ -16,15 +16,15 @@ permalink: /Committees/
 
  * Olivier Barais - Université de Rennes, France
  * Achim Brucher - University of Sheffield, UK
- * Brahim Hamid	- University of toulouse
+ * Brahim Hamid	- University of Toulouse, France
  * Jan Jurgens - University of Koblenz-Landau, Germany
  * Alexander Knapp - Universität Augsburg, Germany
  * Nora Koch - University of Seville, Spain
  * Regine Laleau - Université Paris-Est Créteil, France
- * Yves	Le Traon - University of Luxembourg
+ * Yves	Le Traon - University of Luxembourg, Luxembourg
  * Yves Ledru - Université Grenoble-Alpes, France
  * Gabriel Pedroza - CEA LIST, France
- * Salah Sadou University of South Brittany
- * Katja Tuma	Chalmers/Gothenburg University	
- * Manuel Wimmer - Technische Universität Wien, Austria
+ * Salah Sadou University of South Brittany, Framce
+ * Katja Tuma	Chalmers/Gothenburg University, Sweden	
+ * Manuel Wimmer - Johannes Kepler University Linz, Austria
   
