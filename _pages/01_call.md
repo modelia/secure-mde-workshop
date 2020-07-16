@@ -47,7 +47,7 @@ All submissions will be formally evaluated by three reviewers; different review 
 ### Important Dates
 
  * Abstract submission: ~~July 15, 2020~~ **July 20, 2020**
- * Paper submission: ~~July 22, 2020~~  **July 27, 2020**
+ * Paper submission: ~~July 22, 2020~~  **July 26, 2020**
  * Notification: August 21, 2020
  * Camera-ready: August 28, 2020
  * Workshop: TBA
