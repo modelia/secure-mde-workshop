@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-### Secure MDE 2020 Program:
+### Secure MDE 2020 Program (Times are in the Montreal timezone: UTC/GMT -4 hours):
 
  * 09:00 - 09:10 Welcome and introduction
 
